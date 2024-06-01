@@ -1,0 +1,6 @@
+@DispatchBalanceAPI_HostAddress = http://localhost:7171
+
+GET {{DispatchBalanceAPI_HostAddress}}/api/
+Accept: application/json
+
+###
